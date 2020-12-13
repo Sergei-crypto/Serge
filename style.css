@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+body
+{
+    font-family: Montserrat, sans-serif;
+}
+
+.title
+{
+    font-size: 48px;
+}
+
+.birth-info
+{
+    font-size: 14px;
+}
+
+.birth-place
+{
+    font-size: 14px;
+}
+
+.description
+{
+    font-size:14px;
+}
+
+.section-title
+{
+    font-size:18px;
+}
+
+.list
+{
+    font-size:18px
+}
+
+.position
+{
+    color: #FF3232;
+}
